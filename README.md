@@ -34,3 +34,7 @@ then go to website_code/src folder and run
 **`Selenium`**
 
 Selenium testing scripts are available in selenium directory.
+
+For installing selenium run
+
+pip install selenium
